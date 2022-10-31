@@ -1,0 +1,109 @@
+
+
+body {
+  font-family: "Ariel";
+  background-image: url("https://64.media.tumblr.com/b45ea9a21a023fafb3125795920810ca/4fadba20ba80b884-cc/s1280x1920/c234a485eba98d07720601b799f346d0cac199a9.jpg");
+  background-color: rgba(86,31,46,0.5);
+  background-attachment: fixed;
+  background-size: cover;
+}
+h1 {
+  margin: 0.25em auto;
+  text-align: center;
+  border: 2px solid rgba(66,75,115,1);
+  max-width: 60%;
+  background-color:rgba(225,228,230,0.15);
+  padding: 0 1.1rem;
+  font-size: 3.5em;
+  color: rgba(138,51,66,1);
+  text-shadow: 1px 1px 1px black;
+}
+.a {
+  font-size: 2.5em;
+  text-shadow: 0 0 2px white;
+  margin: 0.25em auto;
+  text-align: center;
+  border: 1px solid rgba(66,75,115,1);
+  max-width: 60%;
+  background-color:rgba(225,228,230,0.15);
+  padding: 0 1.1rem;
+  color: rgba(66,75,115,1);
+}
+.shimmer {
+  color: rgba(90,121,146,0.5);
+  text-shadow:0px 0px 0.5px white;
+}
+form {
+  background-color: rgba(225,228,230,0.15);
+  border: 1px solid rgba(66,75,115,1);
+  width: 60%;
+  margin: 3em auto;
+  padding: 1.1rem;
+  font-size: 1.75em;
+  color: rgba(255,255,255,0.7);
+  text-shadow: 2px 2px 0 rgba(66,75,115,1);
+}
+ .inline {
+  display: block;
+  margin-bottom: 1rem;
+  width: 100%;
+  height: 2rem;
+  background-color: rgba(90,121,146,0.5);
+  font-size: 1.5rem;
+  color: rgba(255,255,255,0.7);
+  border: 2px solid rgba(66,75,115,1);
+  cursor: pointer;
+}
+fieldset{
+  border: none;
+  margin: 0 0;
+  padding: 0 0;
+}
+input[type="radio"]{
+  accent-color: rgba(90,121,146,0.5);
+}
+input[type="checkbox"]{
+  accent-color: rgba(90,121,146,0.5);
+}
+.small {
+  font-size: 0.75em;
+}
+.sub {
+
+  font-size: 2.5rem;
+  display: block;
+  margin: 1em auto;
+  text-align: center;
+  border: 1px solid rgba(66,75,115,1);
+  max-width: 30%;
+  background-color:rgba(90,121,146,0.5);
+  color: rgba(255,255,255,0.7);
+  padding: 5px 15px
+}
+.sub:hover {
+  background-color:rgba(255,255,255,0.5);
+  cursor: pointer;
+}
+.sub:active {
+  background-color:rgba(255,255,255,0.7);
+  cursor: pointer;
+}
+.abc {
+  display: block;
+  margin-bottom: 1rem;
+  width: 100%;
+  height: 10rem;
+  background-color: rgba(90,121,146,0.5);
+  font-size: 1.5rem;
+  color: rgba(255,255,255,0.7);
+  border: 2px solid rgba(66,75,115,1);
+  cursor: pointer;
+}
+::placeholder {
+  color: rgba(255,255,255,0.4)
+}
+
+
+
+
+
